@@ -1,0 +1,43 @@
+.background-color1 {
+    background-color: #243b67;
+}
+.text-color1 {
+    color: rgb(197, 223, 245);
+}
+.background-color2 {
+    background-color: #6f5ed0;
+}
+.text-color2 {
+    color: #c37eff;
+}
+.background-color3 {
+    background-color: #c37eff;
+}
+.text-color3 {
+    color: #6f5ed0;
+}
+.background-color4 {
+    background-color: #ebecf1;
+}
+.text-color4 {
+    color: #243b67;
+}
+
+.font-size-14 {
+    font-size: 14px;
+}
+.font-size-16 {
+    font-size: 16px;
+}
+.font-size-18 {
+    font-size: 18px;
+}
+.font-size-22 {
+    font-size: 22px;
+}
+.font-size-26 {
+    font-size: 26px;
+}
+.font-size-30 {
+    font-size: 30px;
+}
