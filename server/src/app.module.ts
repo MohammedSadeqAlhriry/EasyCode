@@ -50,9 +50,9 @@ import { Notification } from './notifications/entities/notification.entity';
       type: 'mssql',
       host: 'localhost',
       port: 1433,
-      username: 'sa',
-      password: 'abdu123',
-      database: 'easycode',
+      username: 'your database user username, for example sa',
+      password: 'the user password',
+      database: 'easycode', // create an empty database with this name in you sql serve before you run the app
       options: {
         encrypt: false
       },
